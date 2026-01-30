@@ -1,1 +1,52 @@
-https://drive.google.com/drive/folders/1dKBbGU7KVgXcxn2UsC2CHjT_YzlxLrdu?usp=sharing
+Link: https://drive.google.com/drive/folders/1dKBbGU7KVgXcxn2UsC2CHjT_YzlxLrdu?usp=sharing
+
+Short description about these projects:
+
+'Easy Offer' - Admin Dashboard:
+  Role-based access control (Admin / User)
+  
+  Create and manage commercial offers
+  
+  Secure public offer links (UUID-based) for clients
+  
+  Client management (company details, tax ID, etc.)
+  
+  Offer workflow (create, edit, view)
+  
+  Modern SPA architecture using Laravel, Inertia, and Vue 3 (Composition API)
+  
+  UI notifications (flash messages)
+  
+  Dynamic routing with Ziggy
+  
+  Protected routes with dedicated public access
+
+'Billing Reminders' - Admin Dashboard:
+  Client management with related contact data (emails, phone numbers)
+  
+  Company-based client grouping and statistics
+  
+  Automated email campaigns via Sendy integration
+  
+  Subscriber sync and campaign sending logic
+  
+  Reusable email templates with active versioning
+  
+  Background jobs and cron-based automation
+  
+   Secure public links (UUID - based)
+  
+  Relational database structure with foreign key constraints
+
+'Bloom' and 'Precon' - Frontend + Admin Dashboard:
+  Admin panel for managing frontend content
+  
+  Order management with status tracking (Bloom)
+  
+  CRUD operations for products and categories
+  
+  
+  Dashboard with basic metrics and overviews
+
+
+
